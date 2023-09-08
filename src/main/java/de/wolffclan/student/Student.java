@@ -10,5 +10,5 @@ public class Student {
     private final String name;
     private final String address;
     @With
-    private final String grade;
+    private final int grade;
 }
