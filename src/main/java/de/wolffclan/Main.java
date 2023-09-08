@@ -30,8 +30,10 @@ public class Main {
 
         System.out.println(courseMathe8);
         List<Student> studentsDeutsch8 = new ArrayList<>();
-        Teacher teacherMueller = Teacher.builder().id(23).name("Müller").subject("Deutsch").build();
         studentsDeutsch8 = students1;
+        Student studentWith = student1.withGrade("9d");
+        studentsDeutsch8.add(studentWith);
+        Teacher teacherMueller = Teacher.builder().id(23).name("Müller").subject("Deutsch").build();
         Course course2 = Course.builder().id(12).name("Deutsch 8").teacher(teacherMueller).students(studentsDeutsch8).build();
         System.out.println(course2);
 

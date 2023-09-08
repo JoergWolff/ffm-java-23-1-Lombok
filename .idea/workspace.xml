@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="875e97b8-e289-45dd-b36a-37fdf4c919d8" name="Changes" comment="refactoring List&lt;Student&gt;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="875e97b8-e289-45dd-b36a-37fdf4c919d8" name="Changes" comment="add @Builder">
       <change beforePath="$PROJECT_DIR$/src/main/java/de/wolffclan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/wolffclan/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/wolffclan/course/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/wolffclan/course/Course.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694178311556</updated>
-      <workItem from="1694178312747" duration="5253000" />
+      <workItem from="1694178312747" duration="5847000" />
     </task>
     <task id="LOCAL-00001" summary="Working part one">
       <option name="closed" value="true" />
@@ -76,7 +74,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694182370038</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add @Builder">
+      <option name="closed" value="true" />
+      <created>1694183913445</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694183913445</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +102,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Working part one" />
     <MESSAGE value="refactoring List&lt;Student&gt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactoring List&lt;Student&gt;" />
+    <MESSAGE value="add @Builder" />
+    <option name="LAST_COMMIT_MESSAGE" value="add @Builder" />
   </component>
 </project>
